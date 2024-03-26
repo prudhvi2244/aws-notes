@@ -12,10 +12,10 @@
 # Types of cloud computing
 ## There are four main types of cloud computing
 
-**private clouds**
-**public clouds**
-**hybrid clouds**
-**Multiclouds**
+### **private clouds**
+### **public clouds**
+### **hybrid clouds**
+### **Multiclouds**
 
 
 # Public cloud
@@ -34,33 +34,32 @@
 
 # Cloud Computing Services
 ## There are three main types of cloud computing services
-** Infrastructure-as-a-Service (IaaS)
-** Platforms-as-a-Service (PaaS)
-** Software-as-a-Service (SaaS)
-** Function-as-a-Service ( FaaS)
+### **Infrastructure-as-a-Service (IaaS)**
+### **Platforms-as-a-Service (PaaS)**
+### **Software-as-a-Service (SaaS)**
+### **Function-as-a-Service (FaaS)**
 
 
 
-Infrastructure as a Service (IaaS)
-*******************************************
-IaaS delivers on-demand infrastructure resources, such as compute, storage, networking, and virtualization. With IaaS, the service provider owns and operates the infrastructure, but customers will need to purchase and manage software, such as operating systems, middleware, data, and applications.
+# Infrastructure as a Service (IaaS)
+## IaaS delivers on-demand infrastructure resources, such as compute, storage, networking, and virtualization. With IaaS, the service provider owns and operates the infrastructure, but customers will need to purchase and manage software, such as operating systems, middleware, data, and applications.
 
-Example : Buying pre-packed ingredients like fresh pasta and sauce made by someone else that you use to cook at home. 
+### _Buying pre-packed ingredients like fresh pasta and sauce made by someone else that you use to cook at home._ 
 
-Platform as a Service (PaaS)
-PaaS delivers and manages hardware and software resources for developing, testing, delivering, and managing cloud applications. Providers typically offer middleware, development tools, and cloud databases within their PaaS offerings.
+# Platform as a Service (PaaS)
+## PaaS delivers and manages hardware and software resources for developing, testing, delivering, and managing cloud applications. Providers typically offer middleware, development tools, and cloud databases within their PaaS offerings.
 
-Example : Order takeout or delivery where your meal is prepared for you and you don’t have to worry about the ingredients or how you’ll cook it, but you have to worry about where you’ll eat, the utensils, and cleaning up after your meal.  
+### _Order takeout or delivery where your meal is prepared for you and you don’t have to worry about the ingredients or how you’ll cook it, but you have to worry about where you’ll eat, the utensils, and cleaning up after your meal_  
 
-Software as a Service (SaaS)
-SaaS provides a full application stack as a service that customers can access and use. SaaS solutions often come as ready-to-use applications, which are managed and maintained by the cloud service provider.
+# Software as a Service (SaaS)
+## SaaS provides a full application stack as a service that customers can access and use. SaaS solutions often come as ready-to-use applications, which are managed and maintained by the cloud service provider.
 
-Example : Call ahead to the restaurant and order the exact meal you want. They prepare everything ahead of time for you so that all you have to do is show up and eat.
+### _Call ahead to the restaurant and order the exact meal you want. They prepare everything ahead of time for you so that all you have to do is show up and eat_
 
-Function-as-a-Service ( FaaS)
-Serverless computing in cloud service models is also called Function as a Service (FaaS). This is a relatively new cloud service model that provides solutions to build applications as simple, event-triggered functions without managing or scaling any infrastructure.
+# Function-as-a-Service ( FaaS)
+## Serverless computing in cloud service models is also called Function as a Service (FaaS). This is a relatively new cloud service model that provides solutions to build applications as simple, event-triggered functions without managing or scaling any infrastructure.
 
-Example : Go out to dinner and order pasta at a restaurant, alone or with friends. You pay and eat whatever you want and the restaurant makes sure there’s enough ingredients and staff to create the order without a long wait.
+### _Go out to dinner and order pasta at a restaurant, alone or with friends. You pay and eat whatever you want and the restaurant makes sure there’s enough ingredients and staff to create the order without a long wait_
 
 
 
