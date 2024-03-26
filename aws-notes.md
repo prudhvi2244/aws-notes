@@ -12,10 +12,10 @@
 # Types of cloud computing
 ## There are four main types of cloud computing
 
-** private clouds **
-** public clouds **
-** hybrid clouds **
-** Multiclouds **
+**private clouds**
+**public clouds**
+**hybrid clouds**
+**Multiclouds**
 
 
 # Public cloud
