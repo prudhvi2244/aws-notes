@@ -1,6 +1,5 @@
 # What is Cloud Computing?
-## Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active
-management by the user. Large clouds often have functions distributed over multiple locations, each of which is a data center.
+## Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each of which is a data center.
 
 
 # What is a Data Center?
@@ -10,41 +9,34 @@ management by the user. Large clouds often have functions distributed over multi
 # What is Computing in Data Center?
 ## In the data center, compute refers to the processing power and memory required to run applications on a server. It is one of the three major components of data center along with storage and networking.
 
-## Types of cloud computing
-******************************
-There are four main types of cloud computing
-1)private clouds
-2)public clouds
-3)hybrid clouds
-4)Multiclouds
+# Types of cloud computing
+## There are four main types of cloud computing
+** private clouds
+** public clouds
+** hybrid clouds
+** Multiclouds
 
 
-Public cloud
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-Public clouds deliver resources, such as compute, storage, network, develop-and-deploy environments, and applications over the internet. They are owned and run by third-party cloud service providers like Google Cloud,AWS, Microsoft Azure.
+# Public cloud
+## Public clouds deliver resources, such as compute, storage, network, develop-and-deploy environments, and applications over the internet. They are owned and run by third-party cloud service providers like Google Cloud,AWS, Microsoft Azure.
 
-Private cloud
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-Private clouds are built, run, and used by a single organization, typically located on-premises. They provide greater control, customization, and data security but come with similar costs and resource limitations associated with traditional IT environments.
+# Private cloud
+## Private clouds are built, run, and used by a single organization, typically located on-premises. They provide greater control, customization, and data security but come with similar costs and resource limitations associated with traditional IT environments.
 
-Hybrid cloud
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-Environments that mix at least one private computing environment (traditional IT infrastructure or private cloud, including edge) with one or more public clouds are called hybrid clouds. They allow you to leverage the resources and services from different computing environments and choose which is the most optimal for the workloads. 
+# Hybrid cloud
+## Environments that mix at least one private computing environment (traditional IT infrastructure or private cloud, including edge) with one or more public clouds are called hybrid clouds. They allow you to leverage the resources and services from different computing environments and choose which is the most optimal for the workloads. 
 
-
-Multi Cloud
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Multi-cloud model includes two or more public cloud services. Multi-cloud systems use only public cloud services.
+# Multi Cloud
+## Multi-cloud model includes two or more public cloud services. Multi-cloud systems use only public cloud services.
 
 
 
-Cloud Computing Services
-*******************************
-There are three main types of cloud computing services
-1)Infrastructure-as-a-Service (IaaS)
-2)Platforms-as-a-Service (PaaS)
-3)Software-as-a-Service (SaaS)
-4)Function-as-a-Service ( FaaS)
+# Cloud Computing Services
+## There are three main types of cloud computing services
+** Infrastructure-as-a-Service (IaaS)
+** Platforms-as-a-Service (PaaS)
+** Software-as-a-Service (SaaS)
+** Function-as-a-Service ( FaaS)
 
 
 
