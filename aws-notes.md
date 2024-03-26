@@ -1,17 +1,16 @@
 # What is Cloud Computing?
-** Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active
+## Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active
 management by the user. Large clouds often have functions distributed over multiple locations, each of which is a data center.
 
 
-What is a Data Center?
-A data center is a physical location that stores computing machines and their related hardware equipment. It contains the computing infrastructure that IT systems require, such as servers, data storage drives, and network equipment.
+# What is a Data Center?
+## A data center is a physical location that stores computing machines and their related hardware equipment. It contains the computing infrastructure that IT systems require, such as servers, data storage drives, and network equipment.
 
 
-What is Computing in Data Center?
-What is computing in data center?
-In the data center, compute refers to the processing power and memory required to run applications on a server. It is one of the three major components of data center along with storage and networking.
+# What is Computing in Data Center?
+## In the data center, compute refers to the processing power and memory required to run applications on a server. It is one of the three major components of data center along with storage and networking.
 
-Types of cloud computing
+## Types of cloud computing
 ******************************
 There are four main types of cloud computing
 1)private clouds
